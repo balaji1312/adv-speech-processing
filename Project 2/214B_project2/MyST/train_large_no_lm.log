@@ -1,0 +1,294 @@
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.597
+base_3e5/checkpoint-1700 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.593
+base_3e5/checkpoint-1700 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.410
+base_3e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.403
+base_3e5/checkpoint-10000 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.506
+base_5e5/checkpoint-1400 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.501
+base_5e5/checkpoint-1400 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.381
+base_5e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.379
+base_5e5/checkpoint-10000 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.391
+base_7e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.384
+base_7e5/checkpoint-10000 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.500
+large_1e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.494
+large_1e5/checkpoint-10000 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.335
+large_3e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.329
+large_3e5/checkpoint-10000 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.330
+large_5e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.327
+large_5e5/checkpoint-10000 dev
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 1.000
+large_7e5/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 1.000
+large_5e5_sp/checkpoint-10000 test
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}

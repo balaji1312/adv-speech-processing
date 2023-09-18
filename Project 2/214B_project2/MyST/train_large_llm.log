@@ -1,0 +1,112 @@
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.298
+large_5e5/checkpoint-10000 test MyST_full_4gram.arpa myst_10h
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.294
+large_5e5/checkpoint-10000 test MyST_full_4gram.arpa myst_full
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.303
+large_5e5/checkpoint-10000 test MyST_full_4gram.arpa ft_full
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.305
+large_5e5/checkpoint-10000 test MyST_full_4gram.arpa gpt2
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.294
+large_5e5/checkpoint-10000 dev MyST_full_4gram.arpa myst_10h
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.308
+large_5e5/checkpoint-10000 test MyST_full_4gram.arpa bert_ft
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['R', 'V', 'T', 'J', 'Z', 'D', 'Q', "'", 'N', 'U', 'B', '<', 'W', 'Y', 'S', '-', 'F', 'L', 'K', '|', 'A', 'X', 'G', 'P', 'I', 'C', 'E', 'H', 'O', 'M', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}

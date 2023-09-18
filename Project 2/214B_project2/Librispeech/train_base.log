@@ -1,0 +1,731 @@
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.205
+base_7e5/checkpoint-10000 test_clean riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.206
+base_7e5/checkpoint-10000 test_clean en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.167
+base_7e5/checkpoint-10000 test_clean libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.174
+base_7e5/checkpoint-10000 test_clean libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.297
+base_7e5/checkpoint-10000 test_other riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.298
+base_7e5/checkpoint-10000 test_other en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.248
+base_7e5/checkpoint-10000 test_other libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.252
+base_7e5/checkpoint-10000 test_other libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.204
+base_7e5/checkpoint-10000 dev_clean riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.205
+base_7e5/checkpoint-10000 dev_clean en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.164
+base_7e5/checkpoint-10000 dev_clean libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.170
+base_7e5/checkpoint-10000 dev_clean libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.292
+base_7e5/checkpoint-10000 dev_other riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.294
+base_7e5/checkpoint-10000 dev_other en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.244
+base_7e5/checkpoint-10000 dev_other libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['A', 'L', 'E', 'R', 'O', 'S', 'I', 'Z', 'M', 'V', "'", 'Y', 'B', '|', 'T', 'U', 'X', 'H', 'D', 'J', 'P', 'F', 'C', 'K', 'Q', 'W', 'G', 'N', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.247
+base_7e5/checkpoint-10000 dev_other libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.219
+base_5e5/checkpoint-10000 test_clean riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.219
+base_5e5/checkpoint-10000 test_clean en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.174
+base_5e5/checkpoint-10000 test_clean libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.182
+base_5e5/checkpoint-10000 test_clean libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.312
+base_5e5/checkpoint-10000 test_other riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.313
+base_5e5/checkpoint-10000 test_other en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.261
+base_5e5/checkpoint-10000 test_other libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.265
+base_5e5/checkpoint-10000 test_other libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.217
+base_5e5/checkpoint-10000 dev_clean riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.218
+base_5e5/checkpoint-10000 dev_clean en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.174
+base_5e5/checkpoint-10000 dev_clean libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.180
+base_5e5/checkpoint-10000 dev_clean libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.315
+base_5e5/checkpoint-10000 dev_other riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.315
+base_5e5/checkpoint-10000 dev_other en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.263
+base_5e5/checkpoint-10000 dev_other libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.267
+base_5e5/checkpoint-10000 dev_other libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.325
+base_5e5/checkpoint-800 test_clean riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.343
+base_5e5/checkpoint-800 test_clean en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.187
+base_5e5/checkpoint-800 test_clean libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.200
+base_5e5/checkpoint-800 test_clean libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.429
+base_5e5/checkpoint-800 test_other riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.452
+base_5e5/checkpoint-800 test_other en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.287
+base_5e5/checkpoint-800 test_other libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.293
+base_5e5/checkpoint-800 test_other libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.322
+base_5e5/checkpoint-800 dev_clean riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.341
+base_5e5/checkpoint-800 dev_clean en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.182
+base_5e5/checkpoint-800 dev_clean libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.196
+base_5e5/checkpoint-800 dev_clean libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.428
+base_5e5/checkpoint-800 dev_other riva_lm.binary
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.447
+base_5e5/checkpoint-800 dev_other en_wikipedia.bin
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.285
+base_5e5/checkpoint-800 dev_other libri_full_4gram.arpa.gz
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['H', 'O', '|', 'L', 'B', 'D', 'W', 'E', 'I', 'X', 'G', 'Y', 'S', 'P', 'Q', 'A', 'M', 'T', 'Z', "'", 'V', 'U', 'N', 'J', 'R', 'F', 'C', 'K', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}
+results column names:: 
+ ['pred_str', 'text']
+Test WER: 0.292
+base_5e5/checkpoint-800 dev_other libri10h_4gram.arpa
+
+####DATA PREPERATION####
+
+
+####EVALUATION OF THE FINETUNED MODEL STARTED####
+
+['Q', 'I', 'S', 'K', 'L', 'P', 'Z', 'D', 'F', 'R', 'Y', '|', 'W', 'T', 'N', 'E', 'H', 'C', 'U', 'B', 'O', "'", 'J', 'A', 'M', 'V', 'G', 'X', '<s>', '</s>', '<unk>', '<pad>']
+Initial column names: 
+ {'test': ['text', 'path', 'audio']}
+Column names after batch preperation: 
+ {'test': ['input_values', 'labels']}

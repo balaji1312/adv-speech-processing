@@ -1,0 +1,48 @@
+###############################################################
+EXPERIMENT DETAILS
+FEATURE_EXP: compare16
+CLASS_WEIGHTS: False
+USE_GENDER_WEIGHTS: False
+SUB_SAMPLE_ND_CLASS: True
+CROP: True
+OVERSAMPLE: False
+SPLIT_BY_GENDER: False
+FEATURE_DIMENSIONS: 384
+FREQ_BINS: 130
+BATCH_SIZE: 20
+SNV: True
+LEARNING_RATE: 0.004
+Starting SEED: 1000
+TOTAL_EPOCHS: 100
+TOTAL_ITERATIONS: 3280
+ITERATION_EPOCH: 1
+LEARN_RATE_FACTOR: 2
+WEIGHT_DECAY: 0
+LOSS_ALPHA: 0
+EXP_RUNTHROUGH: 5
+SUB_DIR: cnn_lstm_feat_compare16_dim_384_batch_20_lr_0.004_wd_0_lrf_2
+Current Seed: 1000
+Logged into: SPAPL-Psychic
+Experiment details: cnn_lstm_feat_compare16_dim_384_batch_20_lr_0.004_wd_0_lrf_2
+###############################################################
+The dimensions of the logmel features before segmentation are: [130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130]
+The dimensions of the dev features are: (1044, 130, 384)
+The number of class zero files in the dev split after segmentation are 896
+The number of class one files in the dev split after segmentation are 148
+instance Weights: [1, 1]
+Time taken to evaluate dev: 1.36s
+Scores are: 
+[[ 0.54545455  1.          0.09090909  0.54908676  0.93150685  0.16666667
+  68.          0.         10.          1.        ]
+ [ 0.50868984  0.92647059  0.09090909  0.50563204  0.89361702  0.11764706
+  63.          5.         10.          1.        ]
+ [ 0.52339572  0.95588235  0.09090909  0.52121212  0.90909091  0.13333333
+  65.          3.         10.          1.        ]
+ [ 0.56885027  0.95588235  0.18181818  0.58274648  0.91549296  0.25
+  65.          3.          9.          2.        ]
+ [ 0.46858289  0.57352941  0.36363636  0.43301435  0.68421053  0.18181818
+  39.         29.          7.          4.        ]]
+Average Scores Raw: 
+[ 0.52299465  0.88235294  0.16363636  0.51833835  0.86678365  0.16989305
+ 60.          8.          9.2         1.8       ]
+Test output Scores: [0.5909090909090909, 1.0, 0.18181818181818182, 0.6228116710875331, 0.9379310344827586, 0.3076923076923077, 68.0, 0.0, 9.0, 2.0]
